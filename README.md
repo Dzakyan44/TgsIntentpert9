@@ -1096,7 +1096,11 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 
 ## Hasil Run 
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
-- 
+  
+
+https://github.com/Dzakyan44/TgsIntentpert9/assets/150989452/04df13ea-e334-44b5-9ffa-5a506f71637b
+
+
 
 
 
